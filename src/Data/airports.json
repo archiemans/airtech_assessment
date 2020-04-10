@@ -1,0 +1,19 @@
+
+  [
+    {
+      "name": "Montreal",
+      "code": "YUL"
+    },
+    {
+      "name": "Toronto",
+      "code": "YYZ"
+    },
+    {
+      "name": "Calgary",
+      "code": "YYC"
+    },
+    {
+      "name": "Vancouver",
+      "code": "YVR"
+    }
+  ]
